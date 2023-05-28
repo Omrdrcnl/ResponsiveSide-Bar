@@ -1,3 +1,3 @@
 # ResponsiveSide-Bar
 
-<img src "images/sidebar.gif" />
+<img src "/images/sidebar.gif" />
